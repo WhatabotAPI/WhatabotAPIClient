@@ -1,7 +1,7 @@
 
 
 # Whatabot API Client Library  
-## Overview The Whatabot API Client Library is designed to simplify the integration of Whatabot's services into Arduino projects. This library uses websockets to receive real-time WhatsApp messages, using whatabot.net as a broker. It provides an easy-to-use interface for handling incoming messages and interacting with the WhatsApp platform.
+## Overview The Whatabot API Client Library is designed to simplify the integration of Whatabot's services into Arduino projects. This library uses websockets to receive real-time WhatsApp messages, using whatabot.io as a broker. It provides an easy-to-use interface for handling incoming messages and interacting with the WhatsApp platform.
 
  ## Installation  
  ### Dependencies 
